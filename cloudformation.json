@@ -24,7 +24,7 @@
                 "UseCustomCookbooks": "true",
                 "CustomCookbooksSource": {
                     "Type": "git",
-                    "Url": "https://github.com/hautelook/elk-cookbooks.git"
+                    "Url": "https://github.com/quachd/elk-cookbooks.git"
                 },
                 "ChefConfiguration": {
                     "BerkshelfVersion": "3.1.3",
